@@ -1,215 +1,239 @@
 {
   "cubedef": {
-    "type": "initialise",
-      "xslices": [
-        {
-          "name": "xslice0",
+    "slices": [
+      {      
+          "Name": "_rotateXslice1",
           "positions": [
             {
-              "index": 0,
-              "cube": "cube01"
+              "Index": 0,
+              "Occupied": false,
+              "CubeAtPosition": "cube01"
             },
             {
-              "index": 1,
-              "cube": "cube02"
+              "Index": 1,
+              "Occupied": false,
+              "CubeAtPosition": "cube02"
             },
             {
-              "index": 2,
-              "cube": "cube03"
+              "Index": 2,
+              "Occupied": false,
+              "CubeAtPosition": "cube03"
             },
             {
-              "index": 3,
-              "cube": "cube04"
+              "Index": 3,
+              "Occupied": false,
+              "CubeAtPosition": "cube04"
             },
             {
-              "index": 4,
-              "cube": "cube05"
+              "Index": 4,
+              "Occupied": false,
+              "CubeAtPosition": "cube05"
             },
             {
-              "index": 5,
-              "cube": "cube06"
+              "Index": 5,
+              "Occupied": false,
+              "CubeAtPosition": "cube06"
             },
             {
-              "index": 6,
-              "cube": "cube07"
+              "Index": 6,
+              "Occupied": false,
+              "CubeAtPosition": "cube07"
             },
             {
-              "index": 7,
-              "cube": "cube08"
+              "Index": 7,
+              "Occupied": false,
+              "CubeAtPosition": "cube08"
             },
             {
-              "index": 8,
-              "cube": "cube09"
+              "Index": 8,
+              "Occupied": false,
+              "CubeAtPosition": "cube09"
             }
           ]
-        },
-        {
-          "name": "xslice1",
+      },
+      {
+          "Name": "_rotateXslice2",
           "positions": [
             {
-              "index": 0,
-              "cube": "cube10"
+              "Index": 0,
+              "Occupied": false,
+              "CubeAtPosition": "cube10"
             },
             {
-              "index": 1,
-              "cube": "cube11"
-
+              "Index": 1,
+              "Occupied": false,
+              "CubeAtPosition": "cube11"
             },
             {
-              "index": 2,
-              "cube": "cube12"
+              "Index": 2,
+              "Occupied": false,
+              "CubeAtPosition": "cube12"
             },
             {
-              "index": 3,
-              "cube": "cube13"
+              "Index": 3,
+              "Occupied": false,
+              "CubeAtPosition": "cube13"
             },
             {
-              "index": 4,
-              "cube": "cube14"
+              "Index": 4,
+              "Occupied": false,
+              "CubeAtPosition": "cube14"
             },
             {
-              "index": 5,
-              "cube": "cube15"
+              "Index": 5,
+              "Occupied": false,
+              "CubeAtPosition": "cube15"
             },
             {
-              "index": 6,
-              "cube": "cube16"
+              "Index": 6,
+              "Occupied": false,
+              "CubeAtPosition": "cube16"
             },
             {
-              "index": 7,
-              "cube": "cube17"
+              "Index": 7,
+              "Occupied": false,
+              "CubeAtPosition": "cube17"
             },
             {
-              "index": 8,
-              "cube": "cube18"
+              "Index": 8,
+              "Occupied": false,
+              "CubeAtPosition": "cube18"
             }
           ]
-        },
-        {
-          "name": "xslice2",
+      },
+      {
+          "Name": "_rotateXslice3",
           "positions": [
             {
-              "index": 0,
-              "cube": "cube19"
+              "Index": 0,
+              "Occupied": false,
+              "CubeAtPosition": "cube19"
             },
             {
-              "index": 1,
-              "cube": "cube20"
-
+              "Index": 1,
+              "Occupied": false,
+              "CubeAtPosition": "cube20"
             },
             {
-              "index": 2,
-              "cube": "cube21"
+              "Index": 2,
+              "Occupied": false,
+              "CubeAtPosition": "cube21"
             },
             {
-              "index": 3,
-              "cube": "cube22"
+              "Index": 3,
+              "Occupied": false,
+              "CubeAtPosition": "cube22"
             },
             {
-              "index": 4,
-              "cube": "cube23"
+              "Index": 4,
+              "Occupied": false,
+              "CubeAtPosition": "cube23"
             },
             {
-              "index": 5,
-              "cube": "cube24"
+              "Index": 5,
+              "Occupied": false,
+              "CubeAtPosition": "cube24"
             },
             {
-              "index": 6,
-              "cube": "cube25"
+              "Index": 6,
+              "Occupied": false,
+              "CubeAtPosition": "cube25"
             },
             {
-              "index": 7,
-              "cube": "cube26"
+              "Index": 7,
+              "Occupied": false,
+              "CubeAtPosition": "cube26"
             },
             {
-              "index": 8,
-              "cube": "cube27"
+              "Index": 8,
+              "Occupied": false,
+              "CubeAtPosition": "cube27"
             }
           ]
-        }
-      ]
-    },
-  "cubes": [
-    {
-      "name": "cube01"
-    },
-    {
-      "name": "cube02"
-    },
-    {
-      "name": "cube03"
-    },
-    {
-      "name": "cube04"
-    },
-    {
-      "name": "cube05"
-    },
-    {
-      "name": "cube06"
-    },
-    {
-      "name": "cube07"
-    },
-    {
-      "name": "cube08"
-    },
-    {
-      "name": "cube09"
-    },
-    {
-      "name": "cube10"
-    },
-    {
-      "name": "cube11"
-    },
-    {
-      "name": "cube12"
-    },
-    {
-      "name": "cube13"
-    },
-    {
-      "name": "cube14"
-    },
-    {
-      "name": "cube15"
-    },
-    {
-      "name": "cube16"
-    },
-    {
-      "name": "cube17"
-    },
-    {
-      "name": "cube18"
-    },
-    {
-      "name": "cube19"
-    },
-    {
-      "name": "cube20"
-    },
-    {
-      "name": "cube21"
-    },
-    {
-      "name": "cube22"
-    },
-    {
-      "name": "cube23"
-    },
-    {
-      "name": "cube24"
-    },
-    {
-      "name": "cube25"
-    },
-    {
-      "name": "cube26"
-    },
-    {
-      "name": "cube27"
-    }
-  ]
-} 
+      }
+    ],
+    "cubes": [
+      {
+        "Name": "cube01"
+      },
+      {
+        "Name": "cube02"
+      },
+      {
+        "Name": "cube03"
+      },
+      {
+        "Name": "cube04"
+      },
+      {
+        "Name": "cube05"
+      },
+      {
+        "Name": "cube06"
+      },
+      {
+        "Name": "cube07"
+      },
+      {
+        "Name": "cube08"
+      },
+      {
+        "Name": "cube09"
+      },
+      {
+        "Name": "cube10"
+      },
+      {
+        "Name": "cube11"
+      },
+      {
+        "Name": "cube12"
+      },
+      {
+        "Name": "cube13"
+      },
+      {
+        "Name": "cube14"
+      },
+      {
+        "Name": "cube15"
+      },
+      {
+        "Name": "cube16"
+      },
+      {
+        "Name": "cube17"
+      },
+      {
+        "Name": "cube18"
+      },
+      {
+        "Name": "cube19"
+      },
+      {
+        "Name": "cube20"
+      },
+      {
+        "Name": "cube21"
+      },
+      {
+        "Name": "cube22"
+      },
+      {
+        "Name": "cube23"
+      },
+      {
+        "Name": "cube24"
+      },
+      {
+        "Name": "cube25"
+      },
+      {
+        "Name": "cube26"
+      },
+      {
+        "Name": "cube27"
+      }
+    ]
+  }
+}
