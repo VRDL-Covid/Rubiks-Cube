@@ -2,8 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\RubikCube",
-    "\\RubikCube\\Assets"
+    "\\RubikCube\\Assets",
+    "\\RubikCube\\Assets\\Resources",
+    "\\RubikCube\\Assets\\Resources\\json",
+    "\\RubikCube\\Assets\\Scripts",
+    "\\RubikCube\\Assets\\Scripts\\JsonObjects"
   ],
-  "SelectedNode": "\\RubikCube\\Assets",
+  "SelectedNode": "\\RubikCube\\Assets\\Scripts\\JsonObjects\\CubeStructure.cs",
   "PreviewInSolutionExplorer": false
 }
