@@ -26,6 +26,7 @@ namespace Scripts.Json
                 public class Position
                 {
                     public int Index;
+                    public string Name;
                     public bool Occupied;
                     public string CubeAtPosition;
                 }

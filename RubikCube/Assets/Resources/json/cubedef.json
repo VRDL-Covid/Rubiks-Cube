@@ -6,48 +6,57 @@
           "positions": [
             {
               "Index": 0,
+              "Name": "_x1_1",
               "Occupied": false,
-              "CubeAtPosition": "cube01"
+              "CubeAtPosition": "Cube01"
             },
             {
               "Index": 1,
+              "Name": "_x1_2",
               "Occupied": false,
-              "CubeAtPosition": "cube02"
+              "CubeAtPosition": "Cube02"
             },
             {
               "Index": 2,
+              "Name": "_x1_3",
               "Occupied": false,
-              "CubeAtPosition": "cube03"
+              "CubeAtPosition": "Cube03"
             },
             {
               "Index": 3,
+              "Name": "_x1_4",
               "Occupied": false,
-              "CubeAtPosition": "cube04"
+              "CubeAtPosition": "Cube04"
             },
             {
               "Index": 4,
+              "Name": "_x1_5",
               "Occupied": false,
-              "CubeAtPosition": "cube05"
+              "CubeAtPosition": "Cube05"
             },
             {
               "Index": 5,
+              "Name": "_x1_6",
               "Occupied": false,
-              "CubeAtPosition": "cube06"
+              "CubeAtPosition": "Cube06"
             },
             {
               "Index": 6,
+              "Name": "_x1_7",
               "Occupied": false,
-              "CubeAtPosition": "cube07"
+              "CubeAtPosition": "Cube07"
             },
             {
               "Index": 7,
+              "Name": "_x1_8",
               "Occupied": false,
-              "CubeAtPosition": "cube08"
+              "CubeAtPosition": "Cube08"
             },
             {
               "Index": 8,
+              "Name": "_x1_9",
               "Occupied": false,
-              "CubeAtPosition": "cube09"
+              "CubeAtPosition": "Cube09"
             }
           ]
       },
@@ -56,48 +65,57 @@
           "positions": [
             {
               "Index": 0,
+              "Name": "_x2_1",
               "Occupied": false,
-              "CubeAtPosition": "cube10"
+              "CubeAtPosition": "Cube10"
             },
             {
               "Index": 1,
+              "Name": "_x2_2",
               "Occupied": false,
-              "CubeAtPosition": "cube11"
+              "CubeAtPosition": "Cube11"
             },
             {
               "Index": 2,
+              "Name": "_x2_3",
               "Occupied": false,
-              "CubeAtPosition": "cube12"
+              "CubeAtPosition": "Cube12"
             },
             {
               "Index": 3,
+              "Name": "_x2_4",
               "Occupied": false,
-              "CubeAtPosition": "cube13"
+              "CubeAtPosition": "Cube13"
             },
             {
               "Index": 4,
+              "Name": "_x2_5",
               "Occupied": false,
-              "CubeAtPosition": "cube14"
+              "CubeAtPosition": "Cube14"
             },
             {
               "Index": 5,
+              "Name": "_x2_6",
               "Occupied": false,
-              "CubeAtPosition": "cube15"
+              "CubeAtPosition": "Cube15"
             },
             {
               "Index": 6,
+              "Name": "_x2_7",
               "Occupied": false,
-              "CubeAtPosition": "cube16"
+              "CubeAtPosition": "Cube16"
             },
             {
               "Index": 7,
+              "Name": "_x2_8",
               "Occupied": false,
-              "CubeAtPosition": "cube17"
+              "CubeAtPosition": "Cube17"
             },
             {
               "Index": 8,
+              "Name": "_x2_9",
               "Occupied": false,
-              "CubeAtPosition": "cube18"
+              "CubeAtPosition": "Cube18"
             }
           ]
       },
@@ -106,133 +124,142 @@
           "positions": [
             {
               "Index": 0,
+              "Name": "_x3_1",
               "Occupied": false,
-              "CubeAtPosition": "cube19"
+              "CubeAtPosition": "Cube19"
             },
             {
               "Index": 1,
+              "Name": "_x3_2",
               "Occupied": false,
-              "CubeAtPosition": "cube20"
+              "CubeAtPosition": "Cube20"
             },
             {
               "Index": 2,
+              "Name": "_x3_3",
               "Occupied": false,
-              "CubeAtPosition": "cube21"
+              "CubeAtPosition": "Cube21"
             },
             {
               "Index": 3,
+              "Name": "_x3_4",
               "Occupied": false,
-              "CubeAtPosition": "cube22"
+              "CubeAtPosition": "Cube22"
             },
             {
               "Index": 4,
+              "Name": "_x3_5",
               "Occupied": false,
-              "CubeAtPosition": "cube23"
+              "CubeAtPosition": "Cube23"
             },
             {
               "Index": 5,
+              "Name": "_x3_6",
               "Occupied": false,
-              "CubeAtPosition": "cube24"
+              "CubeAtPosition": "Cube24"
             },
             {
               "Index": 6,
+              "Name": "_x3_7",
               "Occupied": false,
-              "CubeAtPosition": "cube25"
+              "CubeAtPosition": "Cube25"
             },
             {
               "Index": 7,
+              "Name": "_x3_8",
               "Occupied": false,
-              "CubeAtPosition": "cube26"
+              "CubeAtPosition": "Cube26"
             },
             {
               "Index": 8,
+              "Name": "_x3_9",
               "Occupied": false,
-              "CubeAtPosition": "cube27"
+              "CubeAtPosition": "Cube27"
             }
           ]
       }
     ],
-    "cubes": [
+    "Cubes": [
       {
-        "Name": "cube01"
+        "Name": "Cube01"
       },
       {
-        "Name": "cube02"
+        "Name": "Cube02"
       },
       {
-        "Name": "cube03"
+        "Name": "Cube03"
       },
       {
-        "Name": "cube04"
+        "Name": "Cube04"
       },
       {
-        "Name": "cube05"
+        "Name": "Cube05"
       },
       {
-        "Name": "cube06"
+        "Name": "Cube06"
       },
       {
-        "Name": "cube07"
+        "Name": "Cube07"
       },
       {
-        "Name": "cube08"
+        "Name": "Cube08"
       },
       {
-        "Name": "cube09"
+        "Name": "Cube09"
       },
       {
-        "Name": "cube10"
+        "Name": "Cube10"
       },
       {
-        "Name": "cube11"
+        "Name": "Cube11"
       },
       {
-        "Name": "cube12"
+        "Name": "Cube12"
       },
       {
-        "Name": "cube13"
+        "Name": "Cube13"
       },
       {
-        "Name": "cube14"
+        "Name": "Cube14"
       },
       {
-        "Name": "cube15"
+        "Name": "Cube15"
       },
       {
-        "Name": "cube16"
+        "Name": "Cube16"
       },
       {
-        "Name": "cube17"
+        "Name": "Cube17"
       },
       {
-        "Name": "cube18"
+        "Name": "Cube18"
       },
       {
-        "Name": "cube19"
+        "Name": "Cube19"
       },
       {
-        "Name": "cube20"
+        "Name": "Cube20"
       },
       {
-        "Name": "cube21"
+        "Name": "Cube21"
       },
       {
-        "Name": "cube22"
+        "Name": "Cube22"
       },
       {
-        "Name": "cube23"
+        "Name": "Cube23"
       },
       {
-        "Name": "cube24"
+        "Name": "Cube24"
       },
       {
-        "Name": "cube25"
+        "Name": "Cube25"
       },
       {
-        "Name": "cube26"
+        "Name": "Cube26"
       },
       {
-        "Name": "cube27"
+        "Name": "Cube27"
       }
     ]
   }
