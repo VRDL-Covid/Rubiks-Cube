@@ -5,9 +5,10 @@
     "\\RubikCube\\Assets",
     "\\RubikCube\\Assets\\Resources",
     "\\RubikCube\\Assets\\Resources\\json",
+    "\\RubikCube\\Assets\\Scenes",
     "\\RubikCube\\Assets\\Scripts",
     "\\RubikCube\\Assets\\Scripts\\JsonObjects"
   ],
-  "SelectedNode": "\\RubikCube\\Assets\\Scripts\\JsonObjects\\CubeStructure.cs",
+  "SelectedNode": "\\RubikCube\\Assets\\Scenes",
   "PreviewInSolutionExplorer": false
 }
